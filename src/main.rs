@@ -40,3 +40,4 @@ fn main_loop(stdout: &mut Stdout, editor: &mut Editor) -> Result<()> {
     }
     Ok(())
 }
+
